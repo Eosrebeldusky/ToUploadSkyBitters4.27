@@ -1,0 +1,501 @@
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 0
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 2
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Textures/2DBackground.uasset" 3
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 4
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 5
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 6
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 7
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 8
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 9
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 10
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 11
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 12
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 13
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 14
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 15
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 16
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 17
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 18
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 19
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 20
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 21
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 22
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 23
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 24
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 25
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 26
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 27
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 28
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 29
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 30
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 31
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 32
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 33
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 34
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 35
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 36
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/BGStarSimple.uasset" 37
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 38
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 39
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 40
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maze.uasset" 41
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ColorMaze.uasset" 42
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MazePart2.uasset" 43
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MazePart2_Sprite.uasset" 44
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MazeVenusV3.uasset" 45
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MazeVenusV3_Sprite.uasset" 46
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 47
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 48
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp10_Sprite.uasset" 49
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp11_Sprite.uasset" 50
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp12_Sprite.uasset" 51
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp13_Sprite.uasset" 52
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp14_Sprite.uasset" 53
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp15_Sprite.uasset" 54
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp16_Sprite.uasset" 55
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp17_Sprite.uasset" 56
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp18_Sprite.uasset" 57
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp19_Sprite.uasset" 58
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp1_Sprite.uasset" 59
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp20_Sprite.uasset" 60
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp21_Sprite.uasset" 61
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp22_Sprite.uasset" 62
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp23_Sprite.uasset" 63
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp24_Sprite.uasset" 64
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp25_Sprite.uasset" 65
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp26_Sprite.uasset" 66
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp27_Sprite.uasset" 67
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp28_Sprite.uasset" 68
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp29_Sprite.uasset" 69
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp2_Sprite.uasset" 70
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp30_Sprite.uasset" 71
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp31_Sprite.uasset" 72
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp32_Sprite.uasset" 73
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp33_Sprite.uasset" 74
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp34_Sprite.uasset" 75
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp35_Sprite.uasset" 76
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp36_Sprite.uasset" 77
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp37_Sprite.uasset" 78
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp38_Sprite.uasset" 79
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp39_Sprite.uasset" 80
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp3_Sprite.uasset" 81
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp40_Sprite.uasset" 82
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp41_Sprite.uasset" 83
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp42_Sprite.uasset" 84
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp4_Sprite.uasset" 85
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp5_Sprite.uasset" 86
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/EXP6_Sprite.uasset" 87
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp7_Sprite.uasset" 88
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp8_Sprite.uasset" 89
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp9_Sprite.uasset" 90
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Explosion1.uasset" 91
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Explosion.uasset" 92
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SkyBitterInterface.uasset" 93
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SkyBittersInstance.uasset" 94
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_fire_Sprite.uasset" 95
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_fire_Flipbook.uasset" 96
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_01_Sprite.uasset" 97
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_02_Sprite.uasset" 98
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_03_Sprite.uasset" 99
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion.uasset" 100
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/BpCelebitBullet.uasset" 101
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/BpEnforcerBullet.uasset" 102
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite1_Sprite.uasset" 103
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite2_Sprite.uasset" 104
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite3_Sprite.uasset" 105
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Fire.uasset" 106
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/FireSpriteBp.uasset" 107
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Crosshair_Sprite.uasset" 108
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/CrosshairFp.uasset" 109
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/Gunner.uasset" 110
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/PlayerController2.uasset" 111
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 112
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenusV4-02_Sprite.uasset" 113
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Blasetr2.uasset" 114
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MazeVenusV3_Sprite_Blueprint.uasset" 115
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 116
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/Medkit/Medkit.uasset" 117
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/Medkit/Medkit_Sprite.uasset" 118
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/Medkit/Medkit_Flipbook.uasset" 119
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/Medkit/MedkitBp.uasset" 120
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/TurretRotat.uasset" 121
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/TurretRotat_Sprite.uasset" 122
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Medium_Blase_01.uasset" 123
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Blast.uasset" 124
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Chatter_01.uasset" 125
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Chatter_02.uasset" 126
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Laser.uasset" 127
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret2.uasset" 128
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violetlineshot.uasset" 129
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violet2.uasset" 130
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violetlineshot_Sprite.uasset" 131
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violet1.uasset" 132
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/Violet.uasset" 133
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_ship_Sprite.uasset" 134
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_ship_Flipbook.uasset" 135
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/EnemyHud.uasset" 136
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Enforcer.uasset" 137
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_regular_fire_Sprite.uasset" 138
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_regular_fire_Flipbook.uasset" 139
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGun.uasset" 140
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/3Ship_Sprite.uasset" 141
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/3Ship1.uasset" 142
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/YouWin.uasset" 143
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/BFB2.uasset" 144
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_heavy_fire_Sprite.uasset" 145
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/HeroHeavyFire.uasset" 146
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/BpHeavyFire.uasset" 147
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/ELaser1_01.uasset" 148
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Pause.uasset" 149
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2SeatsPlayerController.uasset" 150
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/MachineGunAmmo/MachineGunAmmo.uasset" 151
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_mine_Sprite.uasset" 152
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Alien.uasset" 153
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_forward_Sprite.uasset" 154
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_forward_Flipbook.uasset" 155
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_idle_Sprite.uasset" 156
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_idle_Flipbook.uasset" 157
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/GameOver.uasset" 158
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/BlueShot.uasset" 159
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Hud.uasset" 160
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 161
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MercuryLevelSprite.uasset" 162
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MercuryLevel.uasset" 163
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maze_Sprite_Blueprint.uasset" 164
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp1.uasset" 165
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp10.uasset" 166
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp11.uasset" 167
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp12.uasset" 168
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp13.uasset" 169
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp14.uasset" 170
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp15.uasset" 171
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp16.uasset" 172
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp17.uasset" 173
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp18.uasset" 174
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp19.uasset" 175
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp2.uasset" 176
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp20.uasset" 177
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp21.uasset" 178
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp22.uasset" 179
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp23.uasset" 180
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp24.uasset" 181
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp25.uasset" 182
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp26.uasset" 183
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp27.uasset" 184
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp28.uasset" 185
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp29.uasset" 186
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp3.uasset" 187
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp30.uasset" 188
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp31.uasset" 189
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp32.uasset" 190
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp33.uasset" 191
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp34.uasset" 192
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp35.uasset" 193
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp36.uasset" 194
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp37.uasset" 195
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp38.uasset" 196
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp39.uasset" 197
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp4.uasset" 198
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp40.uasset" 199
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp41.uasset" 200
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp42.uasset" 201
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp5.uasset" 202
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/EXP6.uasset" 203
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp7.uasset" 204
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp8.uasset" 205
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Explosion1/Exp9.uasset" 206
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Consumbales/MedkitBp.uasset" 207
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" 208
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite1.uasset" 209
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite2.uasset" 210
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Firesprite3.uasset" 211
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/HitTurret.uasset" 212
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/Hitship.uasset" 213
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/TurretDestroyed.uasset" 214
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/TurretRotat_Flipbook.uasset" 215
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/alien1.uasset" 216
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/MapTurretReal.uasset" 217
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/TurretReal.uasset" 218
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/TurretReal_Sprite.uasset" 219
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/TurretReal_Flipbook.uasset" 220
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeMercury.uasset" 221
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenus-01.uasset" 222
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenus-01_Sprite.uasset" 223
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenusV4-01.uasset" 224
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenusV4-01_Sprite.uasset" 225
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/MazeVenusV4-02.uasset" 226
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/VenusV2.uasset" 227
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Maps/VenusV2_Sprite.uasset" 228
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Materials/FlueroGreen.uasset" 229
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/MenuAssets/SkyBitters.uasset" 230
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/3Ship.uasset" 231
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/bf2.uasset" 232
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/BlueShot_Sprite.uasset" 233
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/BlueShot_Flipbook.uasset" 234
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/fb.uasset" 235
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/fb1.uasset" 236
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Fireball1.uasset" 237
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Fireball2.uasset" 238
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Fireball3.uasset" 239
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Fireball.uasset" 240
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Mushroom_1.uasset" 241
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Mushroom_1_Sprite.uasset" 242
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOff.uasset" 243
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOff_Sprite.uasset" 244
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOff_Flipbook.uasset" 245
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOn.uasset" 246
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOn_Sprite.uasset" 247
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/SpacechipOn_Flipbook.uasset" 248
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violet.uasset" 249
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Violetlineshot_Flipbook.uasset" 250
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_building.uasset" 251
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_fire.uasset" 252
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_mine.uasset" 253
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_ship.uasset" 254
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_turret.uasset" 255
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_01.uasset" 256
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_02.uasset" 257
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_explosion_03.uasset" 258
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_forward.uasset" 259
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_heavy_fire.uasset" 260
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_idle.uasset" 261
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_hero_regular_fire.uasset" 262
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset" 263
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/Enemies/alien1_Sprite.uasset" 264
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Alien1.uasset" 265
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/FireSpriteBp.uasset" 266
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Kamikaze.uasset" 267
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Maze.uasset" 268
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_enemy_turret_Sprite.uasset" 269
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/Turret.uasset" 270
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Celebit.uasset" 271
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/TankTurret.uasset" 272
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret.uasset" 273
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SaveGame/SaveGameSkyBitters.uasset" 274
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SaveGame/OpenLevelVenus.uasset" 275
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/OpenLevelVenus.uasset" 276
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SaveGame/YouWinTrigger.uasset" 277
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/YouWinTrigger.uasset" 278
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/TriggerBox_Blueprint.uasset" 279
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SaveGame/OpenLevelEarth.uasset" 280
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/OpenLevelEarth.uasset" 281
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/TriggerBox_Blueprint1.uasset" 282
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/19213_FlameThrower_DIGIP03-29_01.uasset" 283
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Fire.uasset" 284
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Morse_01.uasset" 285
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/ShipAssets/Crosshair.uasset" 286
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/cursor.uasset" 287
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/FORTE.uasset" 288
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/FORTE_Font.uasset" 289
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-MEDIUM.uasset" 290
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-MEDIUM_Font.uasset" 291
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/BGStar.uasset" 292
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Controls.uasset" 293
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/MainMenuWDG.uasset" 294
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/MainMenu.uasset" 295
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/MainMenuHud.uasset" 296
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-EXTRALIGHT.uasset" 297
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-EXTRALIGHT_Font.uasset" 298
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-REGULAR.uasset" 299
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-REGULAR_Font.uasset" 300
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-SEMIBOLD.uasset" 301
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-SEMIBOLD_Font.uasset" 302
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 304
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 305
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 306
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 307
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 309
+"../../../Engine/Content/BasicShapes/Cone.uasset" 310
+"../../../Engine/Content/BasicShapes/Cube.uasset" 311
+"../../../Engine/Content/BasicShapes/Plane.uasset" 312
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 313
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 314
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 315
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 316
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 317
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 318
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 319
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 320
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 322
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 324
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 325
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 326
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 329
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 330
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 331
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 332
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 333
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 334
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 335
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 336
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 337
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 338
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 339
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 340
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"../../../Engine/Content/EditorResources/S_Note.uasset" 343
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 344
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 345
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 346
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 347
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 348
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 349
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 350
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 351
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 352
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 353
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 354
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 355
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 357
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 358
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 359
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 360
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 361
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 362
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 363
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 364
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 365
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 366
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 367
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 368
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 369
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 370
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 371
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 372
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 374
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 376
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 377
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 378
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 380
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 381
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 382
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 383
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 384
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 385
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 386
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 387
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 388
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 389
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 390
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 392
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 393
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 394
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 395
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 396
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 397
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 398
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 399
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 400
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 401
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 402
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 403
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 404
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 405
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 406
+"../../../Engine/Content/EngineResources/Black.uasset" 407
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 408
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 409
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 410
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 411
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 412
+"../../../Engine/Content/EngineSounds/Master.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 415
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 416
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 417
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 418
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 419
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 437
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 438
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 439
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 440
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 441
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 442
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 443
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 444
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 445
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 446
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 447
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 448
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 449
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 450
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 451
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 452
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 453
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 454
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 455
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 456
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 457
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 458
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 459
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 460
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 461
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 462
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 463
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 464
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 468
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 469
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 470
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 471
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 472
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/BGStar_Sprite.uasset" 473
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/EnemyAssets/BFB/BGStar_Sprite_Blueprint.uasset" 474
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Blueprints/SaveGame/OpenLevelMars.uasset" 475
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_building_Sprite.uasset" 476
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/LackingRequisites.uasset" 477
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Textures/T_building_Sprite3_Blueprint.uasset" 478
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/EarthMine.uasset" 479
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 480
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 481
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 482
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScroller/Sprites/Ledge.uasset" 483
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Sounds/Ambience.uasset" 484
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/InfoEarth.uasset" 485
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-BOLD.uasset" 486
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-BOLD_Font.uasset" 487
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/PlanetName.uasset" 488
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-LIGHT.uasset" 489
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Fonts/OSWALD-LIGHT_Font.uasset" 490
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Widgets/Timer.uasset" 491
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Earth.umap" 492
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/MainMenu.umap" 493
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mars.umap" 494
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury_BuiltData.uasset" 495
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/BGStarSimple_Sprite.uasset" 496
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury.umap" 497
+"../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Venus.umap" 498
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 499
+"../../../Engine/Content/Maps/Entry.umap" 500

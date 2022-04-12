@@ -1,0 +1,1839 @@
+﻿Log file open, 03/26/22 12:43:49
+LogInit: Display: Running engine for game: SkyBitters
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.217184
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.03.26-15.43.49:355][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.26-15.43.49:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:356][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.26-15.43.49:360][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.03.26-15.43.49:361][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.26-15.43.49:361][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.26-15.43.49:361][  0]LogHAL: Display: Platform has ~ 32 GB [34295287808 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.26-15.43.49:361][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.26-15.43.49:361][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Scalability.ini]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.26-15.43.49:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Config/Windows/Engine.ini]
+[2022.03.26-15.43.49:362][  0]LogInit: Computer: EOSREBELDUSKY
+[2022.03.26-15.43.49:362][  0]LogInit: User: Santiago
+[2022.03.26-15.43.49:362][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.26-15.43.49:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.26-15.43.49:362][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.03.26-15.43.49:362][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.26-15.43.49:362][  0]LogMemory: Process Physical Memory: 117.40 MB used, 117.41 MB peak
+[2022.03.26-15.43.49:362][  0]LogMemory: Process Virtual Memory: 111.88 MB used, 111.88 MB peak
+[2022.03.26-15.43.49:362][  0]LogMemory: Physical Memory: 6060.49 MB used,  26646.05 MB free, 32706.54 MB total
+[2022.03.26-15.43.49:362][  0]LogMemory: Virtual Memory: 5185.50 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2022.03.26-15.43.49:367][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.26-15.43.49:407][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.26-15.43.49:407][  0]LogInit: Using OS detected language (en-US).
+[2022.03.26-15.43.49:407][  0]LogInit: Using OS detected locale (es-AR).
+[2022.03.26-15.43.49:408][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.26-15.43.49:538][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.26-15.43.49:565][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.26-15.43.49:565][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.26-15.43.49:663][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.26-15.43.49:663][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.26-15.43.49:663][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.26-15.43.49:663][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.26-15.43.49:740][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2022.03.26-15.43.49:740][  0]LogD3D11RHI:       8010/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.03.26-15.43.49:742][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.26-15.43.49:742][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.26-15.43.49:742][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.26-15.43.49:746][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.26-15.43.49:746][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.26-15.43.49:746][  0]LogWindows: EnumDisplayDevices:
+[2022.03.26-15.43.49:746][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2022.03.26-15.43.49:746][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2022.03.26-15.43.49:746][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.03.26-15.43.49:746][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.03.26-15.43.49:747][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.26-15.43.49:747][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2022.03.26-15.43.49:747][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.03.26-15.43.49:747][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.03.26-15.43.49:747][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2022.03.26-15.43.49:794][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.26-15.43.49:794][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.26-15.43.49:794][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.26-15.43.49:820][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.26-15.43.50:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.26-15.43.50:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.26-15.43.50:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.26-15.43.50:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.26-15.43.50:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.26-15.43.50:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.26-15.43.50:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.26-15.43.50:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.26-15.43.50:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.26-15.43.50:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.26-15.43.50:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.26-15.43.50:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.26-15.43.50:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.26-15.43.50:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.26-15.43.50:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.26-15.43.50:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.26-15.43.50:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.26-15.43.50:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.26-15.43.50:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.26-15.43.50:190][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.26-15.43.50:197][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.26-15.43.50:246][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Intermediate/Shaders/WorkingDirectory/4468/).
+[2022.03.26-15.43.50:247][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Santiago/AppData/Local/Temp/UnrealShaderWorkingDir/D7D393AF4A8C4C78733354AC86EC6787/'.
+[2022.03.26-15.43.50:247][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.26-15.43.50:247][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.26-15.43.50:247][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.26-15.43.50:835][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.26-15.43.50:876][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Santiago/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.03.26-15.43.50:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Santiago/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2022.03.26-15.43.50:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/TopsyTurvy/SkyBitters/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.26-15.43.50:887][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.26-15.43.50:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/TopsyTurvy/SkyBitters/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.26-15.43.50:887][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.26-15.43.50:895][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.26-15.43.50:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.26-15.43.50:895][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.26-15.43.50:896][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Santiago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.26-15.43.50:896][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.26-15.43.50:896][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.26-15.43.50:935][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.26-15.43.50:935][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.26-15.43.50:955][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.03.26-15.43.51:119][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.26-15.43.51:206][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.26-15.43.51:206][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.26-15.43.51:206][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.26-15.43.51:206][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.26-15.43.51:206][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.26-15.43.51:219][  0]LogNetVersion: SkyBitters 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1538818181)
+[2022.03.26-15.43.51:518][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021F8F5DF740), frame # 0
+[2022.03.26-15.43.51:518][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F8F60C7C0), frame # 0
+[2022.03.26-15.43.51:519][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F8F625E00), frame # 0
+[2022.03.26-15.43.51:984][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.461948 seconds
+[2022.03.26-15.43.51:989][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2022.03.26-15.43.51:989][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2022.03.26-15.43.51:989][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.26-15.43.52:234][  0]LogPython: Using Python 2.7.14
+[2022.03.26-15.43.52:821][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.26-15.43.52:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.26-15.43.52:874][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.03.26-15.43.52:875][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.03.26-15.43.52:875][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.03.26-15.43.52:876][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonOverview': Can't find file.
+[2022.03.26-15.43.52:876][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonOverview': Can't find file.
+[2022.03.26-15.43.52:876][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.03.26-15.43.52:912][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.52:912][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.52:914][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.52:917][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.52:923][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.53:251][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.26-15.43.53:278][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.26-15.43.53:278][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.26-15.43.53:342][  0]LogOcInput: OculusInput pre-init called
+[2022.03.26-15.43.53:351][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.26-15.43.53:351][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.26-15.43.53:651][  0]LogEngine: Initializing Engine...
+[2022.03.26-15.43.53:651][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.26-15.43.53:651][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.26-15.43.53:652][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.26-15.43.53:830][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.26-15.43.53:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.26-15.43.53:839][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F9FE79E00), frame # 0
+[2022.03.26-15.43.53:839][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F9FE234C0), frame # 0
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.43.53:843][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.43.53:843][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.43.53:843][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.43.53:852][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.43.53:852][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.43.53:918][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.43.53:918][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.43.53:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.43.53:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.43.53:919][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.43.53:920][  0]LogInit: FAudioDevice initialized.
+[2022.03.26-15.43.53:920][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.26-15.43.53:983][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/Santiago/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.03.26-15.43.53:983][  0]LogInit: Texture streaming: Enabled
+[2022.03.26-15.43.53:998][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.26-15.43.53:998][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.26-15.43.53:999][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.26-15.43.54:030][  0]LogInit: Transaction tracking system initialized
+[2022.03.26-15.43.54:049][  0]BlueprintLog: New page: Editor Load
+[2022.03.26-15.43.54:112][  0]LocalizationService: Localization service is disabled
+[2022.03.26-15.43.54:499][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.03.26-15.43.54:499][  0]LogCook: Display: Mobile HDR setting 0
+[2022.03.26-15.43.54:531][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2022.03.26-15.43.54:531][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2022.03.26-15.43.54:531][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cylinder.Cylinder'
+[2022.03.26-15.43.54:625][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TopsyTurvy/SkyBitters/Content/' took 0.04s
+[2022.03.26-15.43.54:785][  0]SourceControl: Source control is disabled
+[2022.03.26-15.43.54:785][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.904
+[2022.03.26-15.43.54:785][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.26-15.43.54:785][  0]LightingResults: New page: Lighting Build
+[2022.03.26-15.43.54:786][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.43.54:786][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.43.54:786][  0]MapCheck: New page: Map Check
+[2022.03.26-15.43.54:786][  0]LightingResults: New page: Lighting Build
+[2022.03.26-15.43.54:800][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021F9FE79E00), frame # 0
+[2022.03.26-15.43.54:800][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021F9FE234C0), frame # 0
+[2022.03.26-15.43.54:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.26-15.43.59:069][  0]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.43.59:069][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F83688C00), frame # 0
+[2022.03.26-15.43.59:069][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F83629A80), frame # 0
+[2022.03.26-15.43.59:186][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.26-15.43.59:200][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.26-15.43.59:200][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.26-15.43.59:200][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2022.03.26-15.43.59:200][  0]LogFileHelpers: Loading map 'Mercury' took 4.415
+[2022.03.26-15.43.59:210][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.329
+[2022.03.26-15.43.59:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.43.59:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.43.59:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.43.59:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.43.59:655][  0]LogCollectionManager: Loaded 0 collections in 0.000570 seconds
+[2022.03.26-15.43.59:789][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TopsyTurvy/SkyBitters/Saved/Collections/' took 0.00s
+[2022.03.26-15.43.59:789][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TopsyTurvy/SkyBitters/Content/Developers/Santiago/Collections/' took 0.00s
+[2022.03.26-15.43.59:789][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TopsyTurvy/SkyBitters/Content/Collections/' took 0.00s
+[2022.03.26-15.43.59:789][  0]LogContentBrowser: Native class hierarchy populated in 0.0257 seconds. Added 3446 classes and 828 folders.
+[2022.03.26-15.43.59:871][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.03.26-15.44.01:132][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.26-15.44.01:196][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 0 folders.
+[2022.03.26-15.44.01:971][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.26-15.44.01:976][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.26-15.44.02:019][  0]LogSlate: Took 0.011037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.26-15.44.02:394][  0]LogRenderer: Reallocating scene render targets to support 1164x600 Format 10 NumSamples 1 (Frame:1).
+[2022.03.26-15.44.02:792][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.26-15.44.02:792][  0]LogLoad: (Engine Initialization) Total time: 14.91 seconds
+[2022.03.26-15.44.02:792][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.26-15.44.02:863][  0]LogAssetRegistry: Asset discovery search completed in 11.9079 seconds
+[2022.03.26-15.44.02:866][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.03.26-15.44.02:872][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.26-15.44.02:938][  0]LogSlate: Took 0.023857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.26-15.44.04:166][  4]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.26-15.49.32:412][301]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.49.32:429][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.49.32:473][301]PIE: New page: PIE session: Mercury (26 mar. 2022 09:49:32)
+[2022.03.26-15.49.32:484][301]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.26-15.49.32:498][301]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.26-15.49.32:498][301]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.49.32:515][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017189s)
+[2022.03.26-15.49.32:521][301]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.49.32:521][301]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021FCFBC2000), frame # 1301
+[2022.03.26-15.49.32:521][301]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F8359F9C0), frame # 1301
+[2022.03.26-15.49.32:521][301]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.03.26-15.49.32:521][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.022975s)
+[2022.03.26-15.49.32:531][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.49.32:532][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.49.32:532][301]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.49.32:532][301]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.49.32:536][301]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.49.32:536][301]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.49.32:562][301]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.49.32:562][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.49.32:563][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.49.32:563][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.49.32:563][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.49.32:573][301]LogInit: FAudioDevice initialized.
+[2022.03.26-15.49.32:608][301]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.49.32:653][301]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.49.32
+[2022.03.26-15.49.32:653][301]LogWorld: Bringing up level for play took: 0.013669
+[2022.03.26-15.49.32:653][301]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.03.26-15.49.32:690][301]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.26-15.49.32:743][301]PIE: Server logged in
+[2022.03.26-15.49.32:745][301]PIE: Play in editor total start time 0,316 seconds.
+[2022.03.26-15.49.33:489][372]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.49.33:539][378]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.49.33:589][384]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.49.34:889][539]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.49.34:939][545]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.49.35:139][569]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.49.35:192][574]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.49.35:242][580]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.49.35:410][600]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.49.35:410][600]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.49.35:819][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.49.35:819][644]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.49.35:820][644]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.49.35:823][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.49.35:838][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.49.35:843][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.49.35:880][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.49.35:881][644]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021F8359F9C0), frame # 1644
+[2022.03.26-15.49.35:881][644]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021FCFBC2000), frame # 1644
+[2022.03.26-15.49.35:882][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.26-15.49.35:912][645]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.03.26-15.49.38:104][907]LogEditorViewport: Clicking on Actor (LMB): Turret_C (Turret2)
+[2022.03.26-15.49.45:381][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.49.46:032][738]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 125 classes and 0 folders.
+[2022.03.26-15.49.47:150][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bullets/MachineGunAmmo.MachineGunAmmo
+[2022.03.26-15.49.47:447][738]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.26-15.49.47:536][739]LogSlate: Took 0.012534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.26-15.49.55:783][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Turret.Turret
+[2022.03.26-15.50.42:278][945]BlueprintLog: New page: Compile Turret
+[2022.03.26-15.50.42:357][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.26-15.50.42:491][945]LogSlate: Took 0.031261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.26-15.50.42:808][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret.uasset" SILENT=true
+[2022.03.26-15.50.43:435][978]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/TurretBD59EA474306A696ECE8DE98D80893B4.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret.uasset'
+[2022.03.26-15.50.43:448][978]AssetCheck: New page: Asset Save: Turret
+[2022.03.26-15.50.43:448][978]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Turret.Turret
+[2022.03.26-15.50.45:991][274]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.50.46:002][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.50.46:002][274]PIE: New page: PIE session: Mercury (26 mar. 2022 09:50:46)
+[2022.03.26-15.50.46:002][274]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.50.46:012][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010076s)
+[2022.03.26-15.50.46:013][274]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.50.46:013][274]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F83527000), frame # 9274
+[2022.03.26-15.50.46:013][274]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F83244900), frame # 9274
+[2022.03.26-15.50.46:013][274]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2022.03.26-15.50.46:013][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010964s)
+[2022.03.26-15.50.46:034][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.50.46:035][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.50.46:035][274]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.50.46:035][274]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.50.46:038][274]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.50.46:038][274]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.50.46:064][274]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.50.46:065][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.50.46:065][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.50.46:065][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.50.46:065][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.50.46:075][274]LogInit: FAudioDevice initialized.
+[2022.03.26-15.50.46:080][274]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.50.46:083][274]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.50.46
+[2022.03.26-15.50.46:084][274]LogWorld: Bringing up level for play took: 0.002689
+[2022.03.26-15.50.46:084][274]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.26-15.50.46:088][274]PIE: Server logged in
+[2022.03.26-15.50.46:089][274]PIE: Play in editor total start time 0,088 seconds.
+[2022.03.26-15.50.46:347][304]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.50.46:397][310]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.50.47:723][469]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.50.47:772][475]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.50.47:864][486]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.50.47:914][492]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.50.48:006][503]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.50.48:056][509]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.50.48:122][517]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.50.48:172][523]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.50.48:190][525]LogScript: Warning: Attempted to access Arrow via property Arrow, but Arrow is pending kill
+	Turret_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.Turret2_1
+	Function /Game/Enemy/Turret.Turret_C:ExecuteUbergraph_Turret:03BA
+[2022.03.26-15.50.48:190][525]PIE: Error: Blueprint Runtime Error: "Attempted to access Arrow via property Arrow, but Arrow is pending kill". Blueprint:  Turret Function:  Execute Ubergraph Turret Graph:  EventGraph Node:  SpawnActor Medkit Bp
+[2022.03.26-15.50.48:190][525]LogScript: Warning: Attempted to access Arrow via property Arrow, but Arrow is pending kill
+	Turret_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.Turret2_1
+	Function /Game/Enemy/Turret.Turret_C:ExecuteUbergraph_Turret:0418
+[2022.03.26-15.50.48:190][525]PIE: Error: Blueprint Runtime Error: "Attempted to access Arrow via property Arrow, but Arrow is pending kill". Blueprint:  Turret Function:  Execute Ubergraph Turret Graph:  EventGraph Node:  SpawnActor Medkit Bp
+[2022.03.26-15.50.48:190][525]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.50.48:222][529]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.50.48:679][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.50.48:680][578]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.50.48:680][578]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.50.48:683][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.50.48:722][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.50.48:728][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.50.48:768][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.50.48:769][578]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021F83244900), frame # 9578
+[2022.03.26-15.50.48:769][578]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021F83527000), frame # 9578
+[2022.03.26-15.50.48:771][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.26-15.50.48:844][579]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.26-15.52.06:771][896]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.52.06:775][896]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.52.20:744][490]BlueprintLog: New page: Compile Turret
+[2022.03.26-15.52.20:810][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.26-15.52.21:059][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Turret" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret.uasset" SILENT=true
+[2022.03.26-15.52.21:092][508]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/Turret0EE614E84FFDCEC3DEBBF1976400537D.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Enemy/Turret.uasset'
+[2022.03.26-15.52.21:103][508]AssetCheck: New page: Asset Save: Turret
+[2022.03.26-15.52.21:103][508]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Turret.Turret
+[2022.03.26-15.52.22:313][639]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.52.22:324][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.52.22:324][639]PIE: New page: PIE session: Mercury (26 mar. 2022 09:52:22)
+[2022.03.26-15.52.22:357][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.52.22:369][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011843s)
+[2022.03.26-15.52.22:369][639]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.52.22:369][639]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022017DB1600), frame # 20639
+[2022.03.26-15.52.22:369][639]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F8FCB3EC0), frame # 20639
+[2022.03.26-15.52.22:370][639]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2022.03.26-15.52.22:370][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.012870s)
+[2022.03.26-15.52.22:394][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.52.22:395][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.52.22:395][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.52.22:396][639]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.52.22:396][639]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.52.22:399][639]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.52.22:399][639]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.52.22:425][639]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.52.22:425][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.52.22:425][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.52.22:425][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.52.22:425][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.52.22:435][639]LogInit: FAudioDevice initialized.
+[2022.03.26-15.52.22:440][639]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.52.22:443][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.52.22
+[2022.03.26-15.52.22:443][639]LogWorld: Bringing up level for play took: 0.002662
+[2022.03.26-15.52.22:444][639]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.26-15.52.22:448][639]PIE: Server logged in
+[2022.03.26-15.52.22:449][639]PIE: Play in editor total start time 0,125 seconds.
+[2022.03.26-15.52.22:554][651]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.52.22:604][657]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.52.22:654][663]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.52.23:960][819]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.52.24:009][825]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.52.24:101][836]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.52.24:151][842]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.52.24:251][854]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.52.24:301][860]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01C6
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01F5
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Attempted to assign to None
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:020A
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:0272
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.52.24:402][872]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01C6
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01F5
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Attempted to assign to None
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:020A
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:0272
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01C6
+[2022.03.26-15.52.24:402][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:402][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01F5
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Attempted to assign to None
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:020A
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:0272
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01C6
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:01F5
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Attempted to assign to None
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:020A
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set Health
+[2022.03.26-15.52.24:403][872]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:0272
+[2022.03.26-15.52.24:403][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.52.24:403][872]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.52.24:908][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.52.24:908][928]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.52.24:908][928]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.52.24:910][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.52.24:918][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.52.24:924][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.52.24:963][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.52.24:964][928]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021F8FCB3EC0), frame # 20928
+[2022.03.26-15.52.24:964][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022017DB1600), frame # 20928
+[2022.03.26-15.52.24:966][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.26-15.52.25:034][929]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.26-15.52.37:982][372]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.52.37:987][372]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.52.47:998][568]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.03.26-15.52.49:509][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.26-15.52.53:243][108]LogSlate: Took 0.011598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.26-15.52.59:000][785]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.03.26-15.52.59:118][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.26-15.52.59:543][812]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/2DSideScrollerCharacter21FFF5F74915B484255DA084E382915F.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.26-15.52.59:555][812]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.03.26-15.52.59:555][812]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.26-15.53.22:226][472]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.53.22:269][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.26-15.53.22:595][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.53.22:610][501]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBpE5AB19F94CBA5BD32627FFAE22580AC1.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.53.22:619][501]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.53.22:619][501]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.53.36:281][ 64]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.53.36:326][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.03.26-15.53.36:720][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.53.36:734][104]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBp0BEEA0144DF3A496D455BD83A2144777.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.53.36:743][104]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.53.36:743][104]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.53.37:602][202]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.53.37:614][202]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.26-15.53.37:615][202]LogPlayLevel: [PlayLevel] Compiling Maze_Sprite_Blueprint before play...
+[2022.03.26-15.53.37:643][202]LogPlayLevel: [PlayLevel] Compiling Alien before play...
+[2022.03.26-15.53.37:691][202]LogPlayLevel: [PlayLevel] Compiling BFB2 before play...
+[2022.03.26-15.53.37:701][202]LogPlayLevel: [PlayLevel] Compiling Hud before play...
+[2022.03.26-15.53.37:741][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.26-15.53.37:742][202]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (4 blueprints)
+[2022.03.26-15.53.37:742][202]PIE: New page: PIE session: Mercury (26 mar. 2022 09:53:37)
+[2022.03.26-15.53.37:777][202]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.53.37:785][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009541s)
+[2022.03.26-15.53.37:786][202]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.53.37:786][202]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021FCF4B2400), frame # 29202
+[2022.03.26-15.53.37:786][202]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022030E6D800), frame # 29202
+[2022.03.26-15.53.37:786][202]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2022.03.26-15.53.37:786][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010522s)
+[2022.03.26-15.53.37:808][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.53.37:808][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.53.37:809][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.53.37:809][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.53.37:809][202]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.53.37:809][202]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.53.37:812][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.53.37:812][202]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.53.37:847][202]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.53.37:847][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.53.37:847][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.53.37:847][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.53.37:848][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.53.37:857][202]LogInit: FAudioDevice initialized.
+[2022.03.26-15.53.37:869][202]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.53.37:873][202]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.53.37
+[2022.03.26-15.53.37:873][202]LogWorld: Bringing up level for play took: 0.003316
+[2022.03.26-15.53.37:873][202]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.26-15.53.37:878][202]PIE: Server logged in
+[2022.03.26-15.53.37:879][202]PIE: Play in editor total start time 0,265 seconds.
+[2022.03.26-15.53.38:187][233]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.53.38:237][239]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.53.39:392][375]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.53.39:442][381]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.53.39:550][394]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.53.39:600][400]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.53.39:692][411]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.53.39:742][417]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.53.39:859][431]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	MedkitBp_C /Game/Levels/UEDPIE_0_Mercury.Mercury:PersistentLevel.MedkitBp_C_0
+	Function /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp_C:ExecuteUbergraph_MedkitBp:00BB
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.53.39:860][431]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.53.39:860][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Branch
+[2022.03.26-15.53.39:860][431]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.53.40:320][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.53.40:320][481]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.53.40:321][481]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.53.40:324][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.53.40:347][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.53.40:355][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.53.40:378][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.53.40:391][481]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022030E6D800), frame # 29481
+[2022.03.26-15.53.40:391][481]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021FCF4B2400), frame # 29481
+[2022.03.26-15.53.40:393][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.26-15.53.40:482][482]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.26-15.53.47:993][298]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.53.47:996][298]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.54.29:279][146]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.54.29:332][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.03.26-15.54.29:701][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.54.29:714][183]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBpEA653C0A4649D44CFACD0EB22CE8CC35.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.54.29:723][183]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.54.29:723][183]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.55.47:287][ 76]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.03.26-15.55.47:353][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.26-15.55.47:777][106]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/2DSideScrollerCharacterDCAA03144F6086B47DED71B68ACFEBA2.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.26-15.55.47:789][106]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.03.26-15.55.47:789][106]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.26-15.56.07:031][314]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.03.26-15.56.07:100][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.26-15.56.07:680][363]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/2DSideScrollerCharacterD35647104A9B05D30FA2E49F8CACCD1A.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.26-15.56.07:692][363]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.03.26-15.56.07:692][363]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.26-15.56.11:146][770]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.56.11:157][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.56.11:157][770]PIE: New page: PIE session: Mercury (26 mar. 2022 09:56:11)
+[2022.03.26-15.56.11:157][770]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.56.11:167][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009809s)
+[2022.03.26-15.56.11:168][770]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.56.11:168][770]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002201AEECC00), frame # 46770
+[2022.03.26-15.56.11:168][770]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000220314A5800), frame # 46770
+[2022.03.26-15.56.11:168][770]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2022.03.26-15.56.11:168][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010735s)
+[2022.03.26-15.56.11:193][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.56.11:194][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.56.11:194][770]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.56.11:194][770]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.56.11:197][770]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.56.11:197][770]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.56.11:224][770]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.56.11:224][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.56.11:224][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.56.11:224][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.56.11:224][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.56.11:234][770]LogInit: FAudioDevice initialized.
+[2022.03.26-15.56.11:242][770]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.56.11:245][770]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.56.11
+[2022.03.26-15.56.11:245][770]LogWorld: Bringing up level for play took: 0.002735
+[2022.03.26-15.56.11:245][770]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.26-15.56.11:250][770]PIE: Server logged in
+[2022.03.26-15.56.11:251][770]PIE: Play in editor total start time 0,093 seconds.
+[2022.03.26-15.56.11:522][802]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.56.11:571][808]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.56.11:621][814]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.56.13:172][  0]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.56.13:222][  6]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.56.13:314][ 17]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.56.13:364][ 23]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.56.13:446][ 33]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.56.13:496][ 39]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.56.13:555][ 46]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.56.13:605][ 52]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.56.13:639][ 56]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.56.13:639][ 56]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.56.13:689][ 62]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-15.56.13:739][ 68]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 187.0
+[2022.03.26-15.56.14:499][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.56.14:499][154]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.56.14:500][154]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.56.14:502][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.56.14:519][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.56.14:522][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.56.14:555][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.56.14:556][154]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000220314A5800), frame # 47154
+[2022.03.26-15.56.14:556][154]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002201AEECC00), frame # 47154
+[2022.03.26-15.56.14:558][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.26-15.56.14:577][155]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.26-15.56.15:485][263]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.56.15:496][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.56.15:496][263]PIE: New page: PIE session: Mercury (26 mar. 2022 09:56:15)
+[2022.03.26-15.56.15:536][263]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.56.15:548][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011688s)
+[2022.03.26-15.56.15:548][263]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.56.15:548][263]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022019BC8A00), frame # 47263
+[2022.03.26-15.56.15:549][263]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022017AC2480), frame # 47263
+[2022.03.26-15.56.15:549][263]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2022.03.26-15.56.15:549][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.012749s)
+[2022.03.26-15.56.15:573][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.56.15:574][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.56.15:574][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.56.15:575][263]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.56.15:575][263]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.56.15:578][263]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.56.15:578][263]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.56.15:603][263]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.56.15:603][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.56.15:603][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.56.15:603][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.56.15:603][263]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.56.15:613][263]LogInit: FAudioDevice initialized.
+[2022.03.26-15.56.15:619][263]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.56.15:622][263]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.56.15
+[2022.03.26-15.56.15:622][263]LogWorld: Bringing up level for play took: 0.002720
+[2022.03.26-15.56.15:622][263]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.26-15.56.15:627][263]PIE: Server logged in
+[2022.03.26-15.56.15:628][263]PIE: Play in editor total start time 0,133 seconds.
+[2022.03.26-15.56.15:900][295]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.56.15:951][301]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.56.16:909][416]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.56.16:959][422]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.56.17:042][432]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.56.17:092][438]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.56.17:292][462]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.56.17:342][468]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.56.17:393][474]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.56.17:409][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.56.17:409][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.56.17:409][476]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MedkitBp Function:  Execute Ubergraph Medkit Bp Graph:  EventGraph Node:  Set MainShipHealth
+[2022.03.26-15.56.17:409][476]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.56.18:579][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.56.18:579][613]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.56.18:580][613]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.56.18:582][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.56.18:588][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.56.18:591][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.56.18:613][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.56.18:627][613]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022017AC2480), frame # 47613
+[2022.03.26-15.56.18:627][613]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022019BC8A00), frame # 47613
+[2022.03.26-15.56.18:628][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.26-15.56.18:696][614]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.26-15.56.25:874][328]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.56.25:879][328]LogSlate: Window 'Message Log' being destroyed
+[2022.03.26-15.56.35:204][416]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.56.35:207][416]LogBlueprint: Warning: [Compiler MedkitBp] '2DSide Scroller Character' does not inherit from 'Primitive Component' ( Cast To 2DSideScrollerCharacter  would always fail).
+[2022.03.26-15.56.35:247][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.26-15.56.35:600][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.56.35:612][450]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBp4E7836AE40BD23F5592D52A76A32A1E5.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.56.35:622][450]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.56.35:622][450]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.56.38:609][780]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.56.38:653][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.26-15.56.39:705][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mercury" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.26-15.56.39:743][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.26-15.56.39:788][891]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/Mercury72506CFD4369C8CDE8A755AFDE027EAB.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury.umap'
+[2022.03.26-15.56.39:810][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mercury_BuiltData" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury_BuiltData.uasset" SILENT=true
+[2022.03.26-15.56.39:818][891]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/Mercury_BuiltDataBF8CE4294D5F7A1ABB301C93FFFE7114.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Levels/Mercury_BuiltData.uasset'
+[2022.03.26-15.56.39:832][891]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.26-15.56.39:832][891]LogContentValidation: Display: Validating World /Game/Levels/Mercury.Mercury
+[2022.03.26-15.56.39:832][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Mercury_BuiltData.Mercury_BuiltData
+[2022.03.26-15.56.40:750][  1]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.56.40:792][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.03.26-15.56.41:058][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.56.41:071][ 26]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBp1559536C40BBB2E2DB213E901F527AA7.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.56.41:081][ 26]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.56.41:081][ 26]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.57.21:838][747]BlueprintLog: New page: Compile MedkitBp
+[2022.03.26-15.57.21:882][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.26-15.57.22:212][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Debris/Medkit/MedkitBp" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset" SILENT=true
+[2022.03.26-15.57.22:225][779]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MedkitBp75C2032644DE4988D597AE98151FDE02.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Assets/Debris/Medkit/MedkitBp.uasset'
+[2022.03.26-15.57.22:237][779]AssetCheck: New page: Asset Save: MedkitBp
+[2022.03.26-15.57.22:237][779]LogContentValidation: Display: Validating Blueprint /Game/Assets/Debris/Medkit/MedkitBp.MedkitBp
+[2022.03.26-15.57.23:325][909]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.57.23:336][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.57.23:336][909]PIE: New page: PIE session: Mercury (26 mar. 2022 09:57:23)
+[2022.03.26-15.57.23:375][909]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.57.23:386][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010051s)
+[2022.03.26-15.57.23:386][909]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.57.23:386][909]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021FCF896E00), frame # 54909
+[2022.03.26-15.57.23:386][909]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022024941D00), frame # 54909
+[2022.03.26-15.57.23:386][909]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2022.03.26-15.57.23:386][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010955s)
+[2022.03.26-15.57.23:411][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.57.23:412][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.57.23:412][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.57.23:413][909]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.57.23:413][909]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.57.23:416][909]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.57.23:416][909]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.57.23:442][909]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.57.23:442][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.57.23:442][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.57.23:442][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.57.23:442][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.57.23:452][909]LogInit: FAudioDevice initialized.
+[2022.03.26-15.57.23:458][909]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.57.23:461][909]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.57.23
+[2022.03.26-15.57.23:461][909]LogWorld: Bringing up level for play took: 0.002667
+[2022.03.26-15.57.23:461][909]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.26-15.57.23:466][909]PIE: Server logged in
+[2022.03.26-15.57.23:467][909]PIE: Play in editor total start time 0,131 seconds.
+[2022.03.26-15.57.23:647][930]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.57.23:697][936]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.57.25:114][106]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.57.25:164][112]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.57.25:247][122]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.57.25:297][128]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.57.25:372][137]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.57.25:422][143]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.57.25:522][155]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.57.25:522][155]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.57.26:608][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.57.26:608][282]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.57.26:609][282]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.57.26:611][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.57.26:625][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.57.26:631][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.57.26:680][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.57.26:681][282]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022024941D00), frame # 55282
+[2022.03.26-15.57.26:681][282]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021FCF896E00), frame # 55282
+[2022.03.26-15.57.26:683][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.26-15.57.26:704][283]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.26-15.58.19:671][602]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.58.19:682][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.58.19:682][602]PIE: New page: PIE session: Mercury (26 mar. 2022 09:58:19)
+[2022.03.26-15.58.19:716][602]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.58.19:726][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010087s)
+[2022.03.26-15.58.19:727][602]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.58.19:727][602]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022024597E00), frame # 61602
+[2022.03.26-15.58.19:727][602]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022024981F80), frame # 61602
+[2022.03.26-15.58.19:727][602]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2022.03.26-15.58.19:727][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.011057s)
+[2022.03.26-15.58.19:751][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.58.19:752][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.58.19:752][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.58.19:753][602]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.58.19:753][602]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.58.19:756][602]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.58.19:756][602]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.58.19:782][602]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.58.19:782][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.58.19:782][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.58.19:782][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.58.19:782][602]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.58.19:792][602]LogInit: FAudioDevice initialized.
+[2022.03.26-15.58.19:796][602]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.58.19:800][602]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.58.19
+[2022.03.26-15.58.19:800][602]LogWorld: Bringing up level for play took: 0.002863
+[2022.03.26-15.58.19:800][602]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.26-15.58.19:805][602]PIE: Server logged in
+[2022.03.26-15.58.19:805][602]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.26-15.58.20:110][638]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.58.20:161][644]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.58.21:344][786]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.58.21:394][792]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.58.21:511][806]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.58.21:560][812]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.58.21:636][821]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.58.21:685][827]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.58.21:736][833]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.58.21:819][843]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.58.21:820][843]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.58.24:066][105]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.58.24:116][111]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.58.24:167][117]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-15.58.24:249][127]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 187.0
+[2022.03.26-15.58.24:299][133]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 186.0
+[2022.03.26-15.58.24:758][188]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 185.0
+[2022.03.26-15.58.24:808][194]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 184.0
+[2022.03.26-15.58.24:858][200]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 183.0
+[2022.03.26-15.58.24:942][210]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 182.0
+[2022.03.26-15.58.24:992][216]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 181.0
+[2022.03.26-15.58.25:041][222]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 180.0
+[2022.03.26-15.58.27:666][537]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 179.0
+[2022.03.26-15.58.27:716][543]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 178.0
+[2022.03.26-15.58.27:766][549]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 177.0
+[2022.03.26-15.58.28:198][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.58.28:198][597]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.58.28:199][597]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.58.28:202][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.58.28:241][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.58.28:245][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.58.28:269][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.58.28:283][597]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022024981F80), frame # 62597
+[2022.03.26-15.58.28:283][597]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022024597E00), frame # 62597
+[2022.03.26-15.58.28:285][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.03.26-15.58.28:305][598]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.26-15.58.29:168][696]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.58.29:179][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.58.29:179][696]PIE: New page: PIE session: Mercury (26 mar. 2022 09:58:29)
+[2022.03.26-15.58.29:206][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.58.29:216][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009916s)
+[2022.03.26-15.58.29:216][696]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.58.29:216][696]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F834AD000), frame # 62696
+[2022.03.26-15.58.29:216][696]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002200F70D800), frame # 62696
+[2022.03.26-15.58.29:216][696]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2022.03.26-15.58.29:216][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010813s)
+[2022.03.26-15.58.29:239][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.58.29:240][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.58.29:240][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.58.29:241][696]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.58.29:241][696]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.58.29:244][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.58.29:244][696]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.58.29:269][696]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.58.29:269][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.58.29:269][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.58.29:269][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.58.29:269][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.58.29:279][696]LogInit: FAudioDevice initialized.
+[2022.03.26-15.58.29:287][696]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.58.29:290][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.58.29
+[2022.03.26-15.58.29:290][696]LogWorld: Bringing up level for play took: 0.002727
+[2022.03.26-15.58.29:290][696]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.26-15.58.29:295][696]PIE: Server logged in
+[2022.03.26-15.58.29:295][696]PIE: Play in editor total start time 0,116 seconds.
+[2022.03.26-15.58.30:099][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.58.30:099][783]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.58.30:100][783]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.58.30:102][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.58.30:123][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.58.30:131][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.58.30:173][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.58.30:187][783]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002200F70D800), frame # 62783
+[2022.03.26-15.58.30:187][783]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021F834AD000), frame # 62783
+[2022.03.26-15.58.30:188][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.03.26-15.58.30:208][784]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.26-15.58.48:097][892]LogRenderer: Reallocating scene render targets to support 1164x724 Format 10 NumSamples 1 (Frame:1).
+[2022.03.26-15.58.55:971][818]BlueprintLog: New page: Compile MachineGunAmmo
+[2022.03.26-15.58.56:013][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.26-15.58.56:375][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullets/MachineGunAmmo" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset" SILENT=true
+[2022.03.26-15.58.56:388][853]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MachineGunAmmo4EA598DF4DD7B8F7EC49F4A480263B2D.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset'
+[2022.03.26-15.58.56:399][853]AssetCheck: New page: Asset Save: MachineGunAmmo
+[2022.03.26-15.58.56:399][853]LogContentValidation: Display: Validating Blueprint /Game/Bullets/MachineGunAmmo.MachineGunAmmo
+[2022.03.26-15.58.57:966][999]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.58.57:978][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.58.57:978][999]PIE: New page: PIE session: Mercury (26 mar. 2022 09:58:57)
+[2022.03.26-15.58.57:979][999]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.58.57:988][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009812s)
+[2022.03.26-15.58.57:989][999]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.58.57:989][999]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021F83432400), frame # 65999
+[2022.03.26-15.58.57:989][999]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002200F750CC0), frame # 65999
+[2022.03.26-15.58.57:989][999]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.03.26-15.58.57:989][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010671s)
+[2022.03.26-15.58.58:015][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.58.58:016][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.58.58:016][999]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.58.58:016][999]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.58.58:020][999]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.58.58:020][999]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.58.58:045][999]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.58.58:045][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.58.58:045][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.58.58:045][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.58.58:045][999]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.58.58:055][999]LogInit: FAudioDevice initialized.
+[2022.03.26-15.58.58:060][999]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.58.58:063][999]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.58.58
+[2022.03.26-15.58.58:063][999]LogWorld: Bringing up level for play took: 0.002638
+[2022.03.26-15.58.58:063][999]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.26-15.58.58:068][999]PIE: Server logged in
+[2022.03.26-15.58.58:068][999]PIE: Play in editor total start time 0,09 seconds.
+[2022.03.26-15.58.58:394][ 37]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.58.58:444][ 43]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.58.58:494][ 49]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.58.59:694][193]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.58.59:743][199]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.58.59:793][205]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.58.59:852][212]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.58.59:902][218]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.59.00:010][231]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.59.00:061][237]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.59.00:111][243]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.59.00:136][246]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.59.00:136][246]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.59.04:411][759]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-15.59.04:461][765]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 187.0
+[2022.03.26-15.59.04:510][771]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 186.0
+[2022.03.26-15.59.04:594][781]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 185.0
+[2022.03.26-15.59.04:644][787]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 184.0
+[2022.03.26-15.59.04:693][793]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 183.0
+[2022.03.26-15.59.06:202][974]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 182.0
+[2022.03.26-15.59.06:252][980]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 181.0
+[2022.03.26-15.59.06:302][986]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 180.0
+[2022.03.26-15.59.08:160][209]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 179.0
+[2022.03.26-15.59.08:210][215]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 178.0
+[2022.03.26-15.59.08:319][228]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 177.0
+[2022.03.26-15.59.08:369][234]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 176.0
+[2022.03.26-15.59.10:177][451]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 175.0
+[2022.03.26-15.59.10:227][457]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 174.0
+[2022.03.26-15.59.10:278][463]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 173.0
+[2022.03.26-15.59.10:809][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.10:809][523]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.59.10:809][523]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.59.10:812][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.10:840][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.59.10:850][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.10:902][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.10:903][523]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002200F750CC0), frame # 67523
+[2022.03.26-15.59.10:903][523]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021F83432400), frame # 67523
+[2022.03.26-15.59.10:906][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.26-15.59.10:926][524]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.26-15.59.15:917][119]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.59.15:928][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.59.15:928][119]PIE: New page: PIE session: Mercury (26 mar. 2022 09:59:15)
+[2022.03.26-15.59.15:928][119]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.59.15:938][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009851s)
+[2022.03.26-15.59.15:939][119]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.59.15:939][119]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000220327D6800), frame # 68119
+[2022.03.26-15.59.15:939][119]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000220325A60C0), frame # 68119
+[2022.03.26-15.59.15:939][119]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.03.26-15.59.15:939][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.010760s)
+[2022.03.26-15.59.15:961][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.59.15:963][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.59.15:963][119]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.59.15:963][119]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.59.15:966][119]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.59.15:966][119]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.59.15:992][119]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.59.15:992][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.59.15:992][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.59.15:992][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.59.15:992][119]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.59.16:002][119]LogInit: FAudioDevice initialized.
+[2022.03.26-15.59.16:010][119]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.59.16:013][119]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.59.16
+[2022.03.26-15.59.16:013][119]LogWorld: Bringing up level for play took: 0.002755
+[2022.03.26-15.59.16:013][119]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.26-15.59.16:018][119]PIE: Server logged in
+[2022.03.26-15.59.16:019][119]PIE: Play in editor total start time 0,09 seconds.
+[2022.03.26-15.59.16:516][178]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.59.16:566][184]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.59.16:615][190]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.59.18:016][358]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.59.18:066][364]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.59.18:166][376]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.59.18:215][382]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.59.18:315][394]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.59.18:366][400]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.59.18:416][406]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.59.18:517][418]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.59.18:517][418]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.59.23:349][998]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.59.23:399][  4]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-15.59.25:969][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.25:969][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.59.25:969][309]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.59.25:971][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.25:991][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.59.25:998][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.26:035][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.26:048][309]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000220325A60C0), frame # 69309
+[2022.03.26-15.59.26:048][309]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000220327D6800), frame # 69309
+[2022.03.26-15.59.26:050][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.03.26-15.59.26:070][310]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.26-15.59.40:680][ 25]BlueprintLog: New page: Compile MachineGunAmmo
+[2022.03.26-15.59.40:728][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.26-15.59.41:223][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullets/MachineGunAmmo" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset" SILENT=true
+[2022.03.26-15.59.41:235][ 76]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MachineGunAmmoE65B5D7D4815EFB8F503E6A04AB49FB8.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset'
+[2022.03.26-15.59.41:246][ 76]AssetCheck: New page: Asset Save: MachineGunAmmo
+[2022.03.26-15.59.41:246][ 76]LogContentValidation: Display: Validating Blueprint /Game/Bullets/MachineGunAmmo.MachineGunAmmo
+[2022.03.26-15.59.50:892][216]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-15.59.50:904][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-15.59.50:904][216]PIE: New page: PIE session: Mercury (26 mar. 2022 09:59:50)
+[2022.03.26-15.59.50:936][216]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.59.50:947][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011571s)
+[2022.03.26-15.59.50:948][216]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-15.59.50:948][216]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022017D6FC00), frame # 72216
+[2022.03.26-15.59.50:948][216]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021FC7C43740), frame # 72216
+[2022.03.26-15.59.50:948][216]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2022.03.26-15.59.50:948][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.012471s)
+[2022.03.26-15.59.50:973][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-15.59.50:974][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-15.59.50:974][216]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-15.59.50:974][216]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-15.59.50:978][216]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-15.59.50:978][216]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-15.59.51:003][216]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-15.59.51:003][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-15.59.51:003][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-15.59.51:003][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-15.59.51:003][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-15.59.51:013][216]LogInit: FAudioDevice initialized.
+[2022.03.26-15.59.51:017][216]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-15.59.51:020][216]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-12.59.51
+[2022.03.26-15.59.51:020][216]LogWorld: Bringing up level for play took: 0.002815
+[2022.03.26-15.59.51:020][216]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.26-15.59.51:025][216]PIE: Server logged in
+[2022.03.26-15.59.51:026][216]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.26-15.59.51:281][246]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-15.59.51:332][252]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-15.59.52:365][376]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-15.59.52:415][382]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-15.59.52:532][396]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-15.59.52:582][402]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-15.59.52:673][413]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-15.59.52:723][419]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-15.59.52:882][438]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-15.59.52:882][438]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-15.59.54:332][612]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-15.59.54:381][618]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-15.59.54:432][624]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-15.59.54:482][630]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-15.59.54:531][636]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 187.0
+[2022.03.26-15.59.54:582][642]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 186.0
+[2022.03.26-15.59.54:699][656]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 185.0
+[2022.03.26-15.59.54:749][662]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 184.0
+[2022.03.26-15.59.54:799][668]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 183.0
+[2022.03.26-15.59.54:898][680]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 182.0
+[2022.03.26-15.59.54:948][686]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 181.0
+[2022.03.26-15.59.54:998][692]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 180.0
+[2022.03.26-15.59.55:090][703]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 179.0
+[2022.03.26-15.59.55:140][709]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 178.0
+[2022.03.26-15.59.55:190][715]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 177.0
+[2022.03.26-15.59.55:265][724]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 176.0
+[2022.03.26-15.59.55:315][730]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 175.0
+[2022.03.26-15.59.55:365][736]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 174.0
+[2022.03.26-15.59.55:457][747]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 173.0
+[2022.03.26-15.59.55:507][753]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 172.0
+[2022.03.26-15.59.56:140][829]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 171.0
+[2022.03.26-15.59.56:190][835]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 170.0
+[2022.03.26-15.59.56:240][841]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 169.0
+[2022.03.26-15.59.56:290][847]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 168.0
+[2022.03.26-15.59.56:340][853]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 167.0
+[2022.03.26-15.59.58:646][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.58:646][127]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-15.59.58:647][127]LogWorld: UWorld::CleanupWorld for Mercury, bSessionEnded=true, bCleanupResources=true
+[2022.03.26-15.59.58:647][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.58:667][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.26-15.59.58:677][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.26-15.59.58:735][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.26-15.59.58:736][127]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021FC7C43740), frame # 73127
+[2022.03.26-15.59.58:736][127]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022017D6FC00), frame # 73127
+[2022.03.26-15.59.58:739][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.26-15.59.58:759][128]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.26-16.00.04:685][836]LogEditorViewport: Clicking on Actor (LMB): MedkitBp_C (MedkitBp)
+[2022.03.26-16.00.15:939][159]BlueprintLog: New page: Compile MachineGunAmmo
+[2022.03.26-16.00.15:989][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.26-16.00.16:356][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullets/MachineGunAmmo" FILE="../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset" SILENT=true
+[2022.03.26-16.00.16:369][193]LogSavePackage: Moving '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Saved/MachineGunAmmo391B8A724241BC93E97533A26F742FB2.tmp' to '../../../../../Unreal Projects/TopsyTurvy/SkyBitters/Content/Bullets/MachineGunAmmo.uasset'
+[2022.03.26-16.00.16:380][193]AssetCheck: New page: Asset Save: MachineGunAmmo
+[2022.03.26-16.00.16:380][193]LogContentValidation: Display: Validating Blueprint /Game/Bullets/MachineGunAmmo.MachineGunAmmo
+[2022.03.26-16.00.17:597][333]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.26-16.00.17:610][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.26-16.00.17:610][333]PIE: New page: PIE session: Mercury (26 mar. 2022 10:00:17)
+[2022.03.26-16.00.17:646][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-16.00.17:656][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010488s)
+[2022.03.26-16.00.17:657][333]LogAIModule: Creating AISystem for world Mercury
+[2022.03.26-16.00.17:657][333]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022030919C00), frame # 75333
+[2022.03.26-16.00.17:657][333]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021F83D9CE00), frame # 75333
+[2022.03.26-16.00.17:657][333]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.03.26-16.00.17:657][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mercury.Mercury to /Game/Levels/UEDPIE_0_Mercury.Mercury (0.011416s)
+[2022.03.26-16.00.17:681][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.26-16.00.17:682][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.26-16.00.17:682][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.26-16.00.17:683][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.26-16.00.17:683][333]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.26-16.00.17:683][333]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.26-16.00.17:686][333]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.26-16.00.17:686][333]LogAudioMixer: Display: 1: FrontRight
+[2022.03.26-16.00.17:711][333]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.26-16.00.17:711][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.26-16.00.17:711][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.26-16.00.17:711][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.26-16.00.17:712][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.26-16.00.17:721][333]LogInit: FAudioDevice initialized.
+[2022.03.26-16.00.17:727][333]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.03.26-16.00.17:730][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mercury.Mercury up for play (max tick rate 0) at 2022.03.26-13.00.17
+[2022.03.26-16.00.17:731][333]LogWorld: Bringing up level for play took: 0.002665
+[2022.03.26-16.00.17:731][333]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.26-16.00.17:735][333]PIE: Server logged in
+[2022.03.26-16.00.17:736][333]PIE: Play in editor total start time 0,127 seconds.
+[2022.03.26-16.00.17:937][353]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 199.0
+[2022.03.26-16.00.17:987][359]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 198.0
+[2022.03.26-16.00.18:037][365]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 197.0
+[2022.03.26-16.00.19:754][571]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 196.0
+[2022.03.26-16.00.19:804][577]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 195.0
+[2022.03.26-16.00.19:920][591]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 194.0
+[2022.03.26-16.00.19:921][591]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] 60.0
+[2022.03.26-16.00.19:921][591]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] 600.0
+[2022.03.26-16.00.19:974][597]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 193.0
+[2022.03.26-16.00.20:015][602]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] 20.0
+[2022.03.26-16.00.20:015][602]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] 600.0
+[2022.03.26-16.00.20:065][608]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 192.0
+[2022.03.26-16.00.20:082][610]LogBlueprintUserMessages: [Turret2_1] 11.0
+[2022.03.26-16.00.20:082][610]LogBlueprintUserMessages: [Turret2_1] 16.0
+[2022.03.26-16.00.20:115][614]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 191.0
+[2022.03.26-16.00.20:215][626]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 190.0
+[2022.03.26-16.00.20:265][632]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 189.0
+[2022.03.26-16.00.20:349][642]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 188.0
+[2022.03.26-16.00.20:398][648]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 187.0
+[2022.03.26-16.00.20:506][661]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 186.0
+[2022.03.26-16.00.20:557][667]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 185.0
+[2022.03.26-16.00.20:665][680]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 184.0
+[2022.03.26-16.00.20:716][686]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 183.0
+[2022.03.26-16.00.20:765][692]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 182.0
+[2022.03.26-16.00.22:790][935]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 181.0
+[2022.03.26-16.00.22:840][941]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 180.0
+[2022.03.26-16.00.22:890][947]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 179.0
+[2022.03.26-16.00.22:940][953]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 178.0
+[2022.03.26-16.00.22:990][959]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 177.0
+[2022.03.26-16.00.23:040][965]LogBlueprintUserMessages: [2SeatsPlayerController_C_0] Machine GunAmmo 176.0
+[2022.03.26-16.00.28:740][649]LogNet: Browse: /Game/Levels/Mercury
+[2022.03.26-16.00.28:748][649]LogLoad: LoadMap: /Game/Levels/Mercury
+[2022.03.26-16.00.28:748][649]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mercury
+[2022.03.26-16.00.28:759][649]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+2DSideScrollerCharacter_C.ExecuteUbergraph_2DSideScrollerCharacter
+2DSideScrollerCharacter_C.Death
+Maze_Sprite_Blueprint_C.ExecuteUbergraph_Maze_Sprite_Blueprint
+Maze_Sprite_Blueprint_C.BndEvt__RenderComponent_K2Node_ComponentBoundEvent_3_ComponentEndOverlapSignature__DelegateSignature
+
+[2022.03.26-16.00.30:161][649]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.402 s
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: 
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/UserWidget.cpp] [Line: 2173]
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: Widget Class GameOver_C - Attempting to be created while tearing down the world 'Mercury'
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: Stack: 
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc709b045 UE4Editor-UMG.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc6f4e974 UE4Editor-UMG.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc6eb9b54 UE4Editor-UMG.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc6f4a745 UE4Editor-UMG.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc70419ba UE4Editor-UMG.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8bc0b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e100ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e330e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e5ce4f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e3571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e03bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e35362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e3571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e03bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e35362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e330e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e3571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e03bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e35362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e3571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e34c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8bc0b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc8e34753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc3d2afe5 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc3cd0f0b UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc411808d UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc3cf9985 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc457dc56 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc4e78c27 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc4e23882 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc4e9df5d UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc266aabd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffbc2f437e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ff70ff77800 UE4Editor.exe!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ff70ff8ba7c UE4Editor.exe!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ff70ff8bb5a UE4Editor.exe!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ff70ff9e31d UE4Editor.exe!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ff70ffa145a UE4Editor.exe!UnknownFunction []
+[2022.03.26-16.00.30:161][649]LogOutputDevice: Error: [Callstack] 0x00007ffc27767034 KERNEL32.DLL!UnknownFunction []
+[2022.03.26-16.00.30:162][649]LogOutputDevice: Error: [Callstack] 0x00007ffc28ae2651 ntdll.dll!UnknownFunction []
+[2022.03.26-16.00.30:162][649]LogOutputDevice: Error: 
